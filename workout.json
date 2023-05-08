@@ -1,0 +1,18 @@
+{
+  "workout":
+  [
+    {"muscleName":"Shoulders","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/shoulders.png","muscleSite":"https://www.youtube.com/watch?v=aJXfalSciFg","muscleDetail":"https://www.bodybuilding.com/content/5-shoulder-workouts-for-mass-a-beginners-guide.html","upperLowerBody":"Upper Body"},
+
+    {"muscleName":"Chest","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/chest.png","muscleSite":"https://www.youtube.com/watch?v=2R7VYUEHKvs","muscleDetail":"https://www.bodybuilding.com/content/10-best-chest-exercises-for-building-muscle.html","upperLowerBody":"Upper Body"},
+
+    {"muscleName":"Arms","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/arms.png","muscleSite":"https://www.youtube.com/watch?v=S5kOK3bxfro","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html","upperLowerBody":"Upper Body"},
+
+    {"muscleName":"Core","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/abs.png","muscleSite":"https://www.youtube.com/watch?v=gO5ny37798M&list=PLLXmeIOBkPXScp5_2600eDvZ7FKeVX84v","muscleDetail":"https://www.bodybuilding.com/content/absolutely-perfect-abs-6-workouts-13-moves.html","upperLowerBody":"Upper & Lower Body"},
+
+    {"muscleName":"Legs","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/legs.png","muscleSite":"https://www.youtube.com/watch?v=4H2hH2_GrPQ","muscleDetail":"https://www.bodybuilding.com/content/5-leg-workouts-for-mass-a-beginners-guide.html","upperLowerBody":"Lower Body"},
+
+    {"muscleName":"Calves","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/calf.png","muscleSite":"https://www.youtube.com/watch?v=KcjAzSf9QEw","muscleDetail":"https://www.bodybuilding.com/fun/weik11.htm","upperLowerBody":"Lower Body"},
+
+ ],
+  "Status":"OK"
+}
