@@ -1,7 +1,7 @@
 {
   "workout":
   [
-    {"muscleName":"Shoulders","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/shoulders.png","muscleSite":"https://www.youtube.com/watch?v=aJXfalSciFg"},
+    {"muscleName":"Shoulders","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/shoulder.png","muscleSite":"https://www.youtube.com/watch?v=aJXfalSciFg"},
 
     {"muscleName":"Chest","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/chest.png","muscleSite":"https://www.youtube.com/watch?v=2R7VYUEHKvs"},
 
