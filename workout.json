@@ -1,0 +1,18 @@
+{
+  "workout":
+  [
+    {"muscleName":"Shoulders","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/shoulders.png","muscleSite":"https://www.youtube.com/watch?v=aJXfalSciFg","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+    {"muscleName":"Chest","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/chest.png","muscleSite":"https://www.youtube.com/watch?v=2R7VYUEHKvs","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+    {"muscleName":"Arms","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/arms.png","muscleSite":"https://www.youtube.com/watch?v=S5kOK3bxfro","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+    {"muscleName":"Core","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/abs.png","muscleSite":"https://www.youtube.com/watch?v=gO5ny37798M&list=PLLXmeIOBkPXScp5_2600eDvZ7FKeVX84v","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+    {"muscleName":"Legs","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/legs.png","muscleSite":"https://www.youtube.com/watch?v=4H2hH2_GrPQ","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+    {"muscleName":"Calves","muscleImg":"https://raw.githubusercontent.com/mbasazin/IT315_project/main/calf.png","muscleSite":"https://www.youtube.com/watch?v=KcjAzSf9QEw","muscleDetail":"https://www.bodybuilding.com/content/awesome-arms-workout-arms-by-labrada.html"},
+
+ ],
+  "Status":"OK"
+}
